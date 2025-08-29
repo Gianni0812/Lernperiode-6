@@ -14,4 +14,4 @@ Ich habe Heute 2 von 3 Arbeitspakete abgeschlossen. Ich habe zwei Krieger erstel
 - [ ] WafFen auswahl der Angreifer
 - [ ] HP hinzufügen
 - [ ] Level hinzufügen für spieler
-- [ ] Angreifer erstellen
+- [ ] Plan für Angreifer im Spiel (Offline)
