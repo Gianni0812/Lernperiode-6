@@ -22,6 +22,6 @@ Ich habe Heute viel gearbeitet und alle meine Pakete fertig gemacht. Ich habe di
 ## 12.09.2025
 - [ ] Gewöhnlicher Angreifer erstellen.
 - [ ] Player level 1 geben und ersten Kanpf programieren (Player greift an und muss Angreifer ausweichen)
-- [ ] Xp logik hinzufügen (Immer wenn ein Angreifer XP dropt, aufnehmen und Hinzufügen)
+- [ ] XP logik hinzufügen (Immer wenn ein Angreifer XP dropt, aufnehmen und Hinzufügen)
 - [ ] Zuffal auswahl der Waffen von Angreifer
       
