@@ -38,20 +38,45 @@ namespace Lernperiode6
 
             } while (weiter);
 
-            if (player == "martin")
+            weiter = true;
+            Console.WriteLine("Wählen Sie eine waffe aus:");
+            string waffe = "";
+            do
             {
-                Waffen Schwert = new Waffen();
-                Waffen Axt = new Waffen();
-                Waffen Hammer = new Waffen();
-            }
-            else
-            {
-                Waffen Bogen = new Waffen();
-                Waffen Speer = new Waffen();
-                Waffen Armbrust = new Waffen();
-            }
-            
+                if( player == "martin")
+                {
+                    Waffen waffen = new Waffen("Schwert", "Axt", "Hammer");
 
+                    waffen.Auswahlwaffen(1);
+                    waffe = Console.ReadLine().ToLower();
+                    if(waffe == "schwert" || waffe == "axt" || waffe == "hammer")
+                    {                        
+                        waffen.AusgewählteWaffe(waffe);
+                        weiter = false;
+                    }
+
+                }
+                else if ( player == "luna")
+                {
+                    Waffen waffen = new Waffen("Bogen", "Speer", "Armbrust");
+
+                    waffen.Auswahlwaffen(1);
+                    waffe = Console.ReadLine().ToLower();
+                    if (waffe == "bogen" || waffe == "speer" || waffe == "armbrust")
+                    {
+                        waffen.AusgewählteWaffe(waffe);
+                        weiter = false;
+                    }
+                }
+                else
+                {
+                    break;
+                }
+            }while (weiter);
+
+            spiel startgame = new spiel(player, waffe);
+
+            startgame.Game();
 
         }
     }

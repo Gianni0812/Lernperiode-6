@@ -8,6 +8,7 @@ namespace Lernperiode_6
 {
     internal class Krieger
     {
+        
         public string Catchpharse { get; set; } = "Sehr erfreut";
 
         public void Vorstellen(int anzahl)
