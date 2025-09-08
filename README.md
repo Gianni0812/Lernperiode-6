@@ -20,8 +20,17 @@ Ich habe Heute 2 von 3 Arbeitspakete abgeschlossen. Ich habe zwei Krieger erstel
 Ich habe Heute viel gearbeitet und alle meine Pakete fertig gemacht. Ich habe die Waffen ertsellt und jenach spieler Auswahl zugeteilt. Der User kann jetzt die waffen auswählen. Dann habe ich eine neue Klasse Level und Spiel. Im Spiel werden die Levels ertsellt, mit HP, Power und XP. Für die Zukunft soll immer wenn die Level XP erreicht wird ein level hoch geschalten werden, so das man einen Vortschritt hat.
 
 ## 12.09.2025
-- [ ] Gewöhnlicher Angreifer erstellen.
-- [ ] Player level 1 geben und ersten Kanpf programieren (Player greift an und muss Angreifer ausweichen)
-- [ ] XP logik hinzufügen (Immer wenn ein Angreifer XP dropt, aufnehmen und Hinzufügen)
+- [x] Gewöhnlicher Angreifer erstellen.
+- [x] Player level 1 geben und ersten Kanpf programieren (Player greift an und muss Angreifer ausweichen)
+- [x] XP logik hinzufügen (Immer wenn ein Angreifer XP dropt, aufnehmen und Hinzufügen)
 - [ ] Zuffal auswahl der Waffen von Angreifer
+
+Ich habe eigentlich alle meine Arbeitspackete abgeschlossen. Das letzte habe ich nicht, da mir beim Programieren aufgefallen ist das es nicht nötig ist eine Waffe hinzuzufügen, da es keinen einfluss auf das Spiel hat. Ich habe jedoch meinen Ersten kampf programiert. Der Spieler wird automatisch auf Level 1 gesetzt und kann angreifen oder ausweichen. Der Angreifer wird durch zufall bestummen was er macht. Wenn beide ausweichen passiert nichts. Wenn einer angreift und der andere ausweicht ist es eine 25% chance das er trotzdem getroffen wird und wenn beide angreifen hat der angreifer eine 40% chance das er trifft und der Spieler eine 60% chance. Auch die XP logik funktioniert. Wenn man die Xp der levels liste erreicht, bekommt man automatisch ein level up.
+
+## 19.09.2025
+- [ ] Die console mit Farben gestallten
+- [ ] Zufälliger angreifer erstellen (nicht immer der gleiche)
+- [ ] Anfangs die schlechten und ganz am schluss der Boss logik
+- [ ] Extras hinzufügen(Heiltränke, extra leben, ect.)
+      
       
