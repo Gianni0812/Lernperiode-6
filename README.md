@@ -28,9 +28,15 @@ Ich habe Heute viel gearbeitet und alle meine Pakete fertig gemacht. Ich habe di
 Ich habe eigentlich alle meine Arbeitspackete abgeschlossen. Das letzte habe ich nicht, da mir beim Programieren aufgefallen ist das es nicht nötig ist eine Waffe hinzuzufügen, da es keinen einfluss auf das Spiel hat. Ich habe jedoch meinen Ersten kampf programiert. Der Spieler wird automatisch auf Level 1 gesetzt und kann angreifen oder ausweichen. Der Angreifer wird durch zufall bestummen was er macht. Wenn beide ausweichen passiert nichts. Wenn einer angreift und der andere ausweicht ist es eine 25% chance das er trotzdem getroffen wird und wenn beide angreifen hat der angreifer eine 40% chance das er trifft und der Spieler eine 60% chance. Auch die XP logik funktioniert. Wenn man die Xp der levels liste erreicht, bekommt man automatisch ein level up.
 
 ## 19.09.2025
-- [ ] Die console mit Farben gestallten
-- [ ] Zufälliger angreifer erstellen (nicht immer der gleiche)
-- [ ] Anfangs die schlechten und ganz am schluss der Boss logik
-- [ ] Extras hinzufügen(Heiltränke, extra leben, ect.)
-      
+- [x] Die console mit Farben gestallten
+- [x] Zufälliger angreifer erstellen (nicht immer der gleiche)
+- [x] Anfangs die schlechten und ganz am schluss der Boss logik
+- [x] Extras hinzufügen(Heiltränke, extra leben, ect.)
+
+Ich habe heute viel erreicht. Ich habe Zufällige gegner erstellt. Bei jedem neuem Gegner kommt ein anderer. Es ist jedoch so das bei Level 1 und 2 nur der Räuber kommt und wie höher das Level ist, um so stärkere Gegner kommen. Ich habe auch einen Heiltrank erstellt. Bei einer gewissen protzen chance dropt ein besiegter Gegner einen Heiltrank den man dann benutzen kann. Ich habe auch die Console mit Farben gestalltet und es sieht jetzt einwenig übersichtlicher aus.
+
+## 17.10.2025
+- [ ] Verschiedene Heiltränke erstellen. (Manche heilen mehr manche weniger)
+- [ ] Gift tränke erstellen. (Bei verwenden von Heiltränke auch negativ effect)
+- [ ] Neue Levels erstellen + neue Bosse
       
