@@ -12,6 +12,7 @@ namespace Lernperiode6
 
         public static void Main(string[] args)
         {
+            
             Krieger kriegerMartin = new Krieger();
             kriegerMartin.Catchpharse = "Martin";
             kriegerMartin.Vorstellen(1);
@@ -33,11 +34,14 @@ namespace Lernperiode6
                 }
                 else
                 {
+                    Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("Fehler bei der Eingabe! Stellen Sie sicher das Sie Luna oder Martin eingebn!");
+                    Console.ForegroundColor = ConsoleColor.White;
                 }
 
             } while (weiter);
 
+            
             weiter = true;
             Console.WriteLine("Wählen Sie eine waffe aus:");
             string waffe = "";
