@@ -36,7 +36,7 @@ Ich habe eigentlich alle meine Arbeitspackete abgeschlossen. Das letzte habe ich
 Ich habe heute viel erreicht. Ich habe Zufällige gegner erstellt. Bei jedem neuem Gegner kommt ein anderer. Es ist jedoch so das bei Level 1 und 2 nur der Räuber kommt und wie höher das Level ist, um so stärkere Gegner kommen. Ich habe auch einen Heiltrank erstellt. Bei einer gewissen protzen chance dropt ein besiegter Gegner einen Heiltrank den man dann benutzen kann. Ich habe auch die Console mit Farben gestalltet und es sieht jetzt einwenig übersichtlicher aus.
 
 ## 17.10.2025
-- [ ] Verschiedene Heiltränke erstellen. (Manche heilen mehr manche weniger)
-- [ ] Gift tränke erstellen. (Bei verwenden von Heiltränke auch negativ effect)
+- [x] Verschiedene Heiltränke erstellen. (Manche heilen mehr manche weniger)
+- [x] Gift tränke erstellen. (Bei verwenden von Heiltränke auch negativ effect)
 - [ ] Neue Levels erstellen + neue Bosse
       
