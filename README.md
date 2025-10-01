@@ -38,5 +38,5 @@ Ich habe heute viel erreicht. Ich habe Zufällige gegner erstellt. Bei jedem neu
 ## 17.10.2025
 - [x] Verschiedene Heiltränke erstellen. (Manche heilen mehr manche weniger)
 - [x] Gift tränke erstellen. (Bei verwenden von Heiltränke auch negativ effect)
-- [ ] Neue Levels erstellen + neue Angreifer
+- [ ] Neue Angreifer
       
