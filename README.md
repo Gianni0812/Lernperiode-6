@@ -40,3 +40,20 @@ Ich habe heute viel erreicht. Ich habe Zufällige gegner erstellt. Bei jedem neu
 - [x] Gift tränke erstellen. (Bei verwenden von Heiltränke auch negativ effect)
 - [ ] Neue Angreifer
       
+## Ende des Projekts
+
+Ich habe ein Spiel erstellt, in dem man einen Krieger spielen kann. Zuerst kann man den Krieger auswählen und danach eine Waffe. Im Spiel wird zufällig ein Angreifer ausgewählt, der XP fallen lässt, wenn man gewinnt. Mit den XP kann man Level aufsteigen und dadurch stärker werden. Allerdings werden auch die Angreifer stärker.
+
+Je nachdem, welchen Spieler man auswählt, bekommt man unterschiedliche Waffen.
+
+<img width="665" height="388" alt="image" src="https://github.com/user-attachments/assets/92fcb4cf-5f13-414e-90b7-ad8da7768f50" />
+
+Bei meiner aktuellen Situation wird man gerade von einem Dorfbewohner angegriffen und sieht dabei dessen Leben und Angriffskraft. Man kann nun entscheiden, ob man ausweicht oder angreift. Was der Gegner macht, wird durch einen Zufallsmechanismus bestimmt.
+
+<img width="1260" height="403" alt="image" src="https://github.com/user-attachments/assets/2a492a9c-6f27-4a68-a7b3-cfdc094df1c2" />
+
+
+## Reflexion
+Ich bin sehr zufrieden mit meinem Projekt und finde, dass es mir richtig gut gelungen ist. Anfangs lief alles ziemlich reibungslos, aber mit der Zeit traten immer mehr kleine Probleme auf, die ich dann lösen musste. Das hat mich manchmal genervt, aber am Ende habe ich viel dabei gelernt.
+
+Ich hatte auch viele unnötige Dinge eingebaut, die mir am Ende nichts gebracht haben. Zum Beispiel waren die Waffen unnötig – ich hätte sie stärker ins Spiel einbauen sollen. Das hat mich ein wenig geärgert. Jedoch finde ich das nicht so schlimm. Hauptsache, ich bin fertig, und das Projekt läuft ziemlich gut.
