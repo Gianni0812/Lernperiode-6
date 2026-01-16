@@ -1,59 +1,65 @@
-# Lernperiode-6
+# Lernperiode 6
+
 ## Einführung
-Ich möchte ein Projekt machen, in dem es einen Krieger gibt. Am Anfang kann man zwischen drei Waffen auswählen und startet auf Level 1. Danach erscheinen immer wieder Angreifer, die man abwehren muss. Der Krieger hat drei Angriffe zur Verfügung und muss mit diesen die Angreifer besiegen. Die Angreifer haben ebenfalls ein Level – je höher dieses ist, desto schwerer sind sie zu besiegen.
+Ich möchte ein Projekt umsetzen, in dem man einen **Krieger** spielt. Zu Beginn kann man zwischen drei Waffen auswählen und startet auf **Level 1**. Danach erscheinen fortlaufend Angreifer, die abgewehrt werden müssen. Der Krieger verfügt über drei verschiedene Angriffe, mit denen er die Gegner besiegen kann. Auch die Angreifer besitzen ein Level – je höher dieses ist, desto schwieriger sind sie zu besiegen.
 
 ## 29.08.2025
-- [X] Plan auf einem Blatt Erstellen (Offline)
-- [X] Krieger erstellen
-- [ ] Krieger soll Waffen auswählen können 
+- [x] Plan auf einem Blatt erstellen (offline)  
+- [x] Krieger erstellen  
+- [ ] Krieger soll Waffen auswählen können  
+
 ![WhatsApp Bild 2025-08-29 um 09 25 52_f41a7aab](https://github.com/user-attachments/assets/192d2da4-1eb6-4225-8a3f-9d0c01bb0868)
 
-Ich habe Heute 2 von 3 Arbeitspakete abgeschlossen. Ich habe zwei Krieger erstellt und die dazu gehörigen Wafenn. Ich habe jedoch noch nicht hingekriegt das sie die waffen auch auswählen können. Das werde ich nächste Woche in angriff nehmen.
+Ich habe heute **zwei von drei Arbeitspaketen** abgeschlossen. Ich habe zwei Krieger sowie die dazugehörigen Waffen erstellt. Allerdings habe ich es noch nicht geschafft, dass die Waffen auch ausgewählt werden können. Das werde ich in der nächsten Woche in Angriff nehmen.
 
 ## 05.09.2025
-- [x] WafFen auswahl der Spieler
-- [x] HP hinzufügen
-- [x] Level hinzufügen für spieler
-- [x] Plan für Angreifer im Spiel (Offline)
+- [x] Waffenauswahl für den Spieler  
+- [x] HP hinzufügen  
+- [x] Level für den Spieler hinzufügen  
+- [x] Plan für Angreifer im Spiel erstellen (offline)  
+
 ![WhatsApp Bild 2025-09-05 um 11 15 11_64116214](https://github.com/user-attachments/assets/02051881-295c-4734-89c2-1c78022bffc0)
 
-Ich habe Heute viel gearbeitet und alle meine Pakete fertig gemacht. Ich habe die Waffen ertsellt und jenach spieler Auswahl zugeteilt. Der User kann jetzt die waffen auswählen. Dann habe ich eine neue Klasse Level und Spiel. Im Spiel werden die Levels ertsellt, mit HP, Power und XP. Für die Zukunft soll immer wenn die Level XP erreicht wird ein level hoch geschalten werden, so das man einen Vortschritt hat.
+Heute habe ich viel gearbeitet und **alle geplanten Arbeitspakete** abgeschlossen. Ich habe die Waffen erstellt und sie abhängig von der Spielerauswahl zugewiesen. Der Benutzer kann nun die Waffen auswählen. Zusätzlich habe ich neue Klassen für **Level** und **Spiel** erstellt. Im Spiel werden die Level mit HP, Power und XP verwaltet. In Zukunft soll bei Erreichen der benötigten XP automatisch ein Level-Up erfolgen, sodass ein klarer Fortschritt sichtbar ist.
 
 ## 12.09.2025
-- [x] Gewöhnlicher Angreifer erstellen.
-- [x] Player level 1 geben und ersten Kanpf programieren (Player greift an und muss Angreifer ausweichen)
-- [x] XP logik hinzufügen (Immer wenn ein Angreifer XP dropt, aufnehmen und Hinzufügen)
-- [ ] Zuffal auswahl der Waffen von Angreifer
+- [x] Gewöhnlichen Angreifer erstellen  
+- [x] Spieler auf Level 1 setzen und ersten Kampf programmieren (Angreifen / Ausweichen)  
+- [x] XP-Logik hinzufügen (XP-Drops aufnehmen und hinzufügen)  
+- [ ] Zufällige Waffenauswahl für Angreifer  
 
-Ich habe eigentlich alle meine Arbeitspackete abgeschlossen. Das letzte habe ich nicht, da mir beim Programieren aufgefallen ist das es nicht nötig ist eine Waffe hinzuzufügen, da es keinen einfluss auf das Spiel hat. Ich habe jedoch meinen Ersten kampf programiert. Der Spieler wird automatisch auf Level 1 gesetzt und kann angreifen oder ausweichen. Der Angreifer wird durch zufall bestummen was er macht. Wenn beide ausweichen passiert nichts. Wenn einer angreift und der andere ausweicht ist es eine 25% chance das er trotzdem getroffen wird und wenn beide angreifen hat der angreifer eine 40% chance das er trifft und der Spieler eine 60% chance. Auch die XP logik funktioniert. Wenn man die Xp der levels liste erreicht, bekommt man automatisch ein level up.
+Ich habe nahezu alle Arbeitspakete abgeschlossen. Das letzte habe ich bewusst nicht umgesetzt, da mir beim Programmieren aufgefallen ist, dass Waffen für Angreifer keinen relevanten Einfluss auf das Spiel haben. Dafür habe ich den **ersten Kampf** programmiert. Der Spieler startet automatisch auf Level 1 und kann angreifen oder ausweichen. Die Aktion des Angreifers wird zufällig bestimmt.  
+- Weichen beide aus, passiert nichts.  
+- Greift einer an und der andere weicht aus, besteht eine **25 % Trefferchance**.  
+- Greifen beide an, hat der Angreifer eine **40 %** und der Spieler eine **60 % Trefferchance**.  
+
+Die XP-Logik funktioniert ebenfalls: Wird die benötigte XP-Menge erreicht, erfolgt automatisch ein Level-Up.
 
 ## 19.09.2025
-- [x] Die console mit Farben gestallten
-- [x] Zufälliger angreifer erstellen (nicht immer der gleiche)
-- [x] Anfangs die schlechten und ganz am schluss der Boss logik
-- [x] Extras hinzufügen(Heiltränke, extra leben, ect.)
+- [x] Konsole mit Farben gestalten  
+- [x] Zufällige Angreifer erstellen (nicht immer derselbe)  
+- [x] Anfangs schwache Gegner, am Schluss Boss-Logik  
+- [x] Extras hinzufügen (Heiltränke, Extra-Leben usw.)  
 
-Ich habe heute viel erreicht. Ich habe Zufällige gegner erstellt. Bei jedem neuem Gegner kommt ein anderer. Es ist jedoch so das bei Level 1 und 2 nur der Räuber kommt und wie höher das Level ist, um so stärkere Gegner kommen. Ich habe auch einen Heiltrank erstellt. Bei einer gewissen protzen chance dropt ein besiegter Gegner einen Heiltrank den man dann benutzen kann. Ich habe auch die Console mit Farben gestalltet und es sieht jetzt einwenig übersichtlicher aus.
+Heute habe ich viel erreicht. Es werden nun **zufällige Gegner** erzeugt. Auf Level 1 und 2 erscheint nur der Räuber, mit steigendem Level kommen stärkere Gegner hinzu. Zusätzlich habe ich **Heiltränke** implementiert. Mit einer gewissen prozentualen Chance lässt ein besiegter Gegner einen Heiltrank fallen, den man anschliessend benutzen kann. Die Konsole habe ich zudem farblich gestaltet, wodurch sie übersichtlicher wirkt.
 
 ## 17.10.2025
-- [x] Verschiedene Heiltränke erstellen. (Manche heilen mehr manche weniger)
-- [x] Gift tränke erstellen. (Bei verwenden von Heiltränke auch negativ effect)
-- [ ] Neue Angreifer
-      
+- [x] Verschiedene Heiltränke erstellen (unterschiedliche Heilwerte)  
+- [x] Gifttränke erstellen (negative Effekte bei Nutzung)  
+- [ ] Neue Angreifer  
+
 ## Ende des Projekts
+Ich habe ein Spiel erstellt, in dem man einen **Krieger** spielt. Zuerst wählt man den Krieger und anschliessend eine Waffe. Im Spiel wird zufällig ein Angreifer ausgewählt, der beim Sieg XP fallen lässt. Mit diesen XP kann man Level aufsteigen und dadurch stärker werden. Gleichzeitig werden jedoch auch die Angreifer immer stärker.
 
-Ich habe ein Spiel erstellt, in dem man einen Krieger spielen kann. Zuerst kann man den Krieger auswählen und danach eine Waffe. Im Spiel wird zufällig ein Angreifer ausgewählt, der XP fallen lässt, wenn man gewinnt. Mit den XP kann man Level aufsteigen und dadurch stärker werden. Allerdings werden auch die Angreifer stärker.
-
-Je nachdem, welchen Spieler man auswählt, bekommt man unterschiedliche Waffen.
+Je nach gewähltem Krieger stehen unterschiedliche Waffen zur Verfügung.
 
 <img width="665" height="388" alt="image" src="https://github.com/user-attachments/assets/92fcb4cf-5f13-414e-90b7-ad8da7768f50" />
 
-Bei meiner aktuellen Situation wird man gerade von einem Dorfbewohner angegriffen und sieht dabei dessen Leben und Angriffskraft. Man kann nun entscheiden, ob man ausweicht oder angreift. Was der Gegner macht, wird durch einen Zufallsmechanismus bestimmt.
+In der aktuellen Spielsituation wird der Spieler von einem Dorfbewohner angegriffen. Man sieht dessen Lebenspunkte und Angriffsstärke und kann entscheiden, ob man angreift oder ausweicht. Die Aktion des Gegners wird durch einen Zufallsmechanismus bestimmt.
 
 <img width="1260" height="403" alt="image" src="https://github.com/user-attachments/assets/2a492a9c-6f27-4a68-a7b3-cfdc094df1c2" />
 
-
 ## Reflexion
-Ich bin sehr zufrieden mit meinem Projekt und finde, dass es mir richtig gut gelungen ist. Anfangs lief alles ziemlich reibungslos, aber mit der Zeit traten immer mehr kleine Probleme auf, die ich dann lösen musste. Das hat mich manchmal genervt, aber am Ende habe ich viel dabei gelernt.
+Ich bin sehr zufrieden mit meinem Projekt und finde, dass es mir insgesamt gut gelungen ist. Anfangs lief alles relativ reibungslos, doch mit der Zeit traten immer mehr kleinere Probleme auf, die ich lösen musste. Das war teilweise frustrierend, hat mir aber viel Lerngewinn gebracht.
 
-Ich hatte auch viele unnötige Dinge eingebaut, die mir am Ende nichts gebracht haben. Zum Beispiel waren die Waffen unnötig – ich hätte sie stärker ins Spiel einbauen sollen. Das hat mich ein wenig geärgert. Jedoch finde ich das nicht so schlimm. Hauptsache, ich bin fertig, und das Projekt läuft ziemlich gut.
+Rückblickend habe ich auch einige unnötige Funktionen eingebaut, die mir am Ende keinen Mehrwert gebracht haben. Beispielsweise waren die Waffen zu wenig ins Gameplay integriert – hier hätte ich mehr daraus machen können. Das ärgert mich zwar ein wenig, ist aber nicht weiter schlimm. Wichtig ist, dass das Projekt abgeschlossen ist und insgesamt stabil läuft.
